@@ -9,7 +9,7 @@
     "start:dev": "nodemon index.js",
     "start:prod": "node --watch index.js"
   },
-  "keywords": [
+  "keywords": [ 
     "dev",
     "prod",
     "test",
